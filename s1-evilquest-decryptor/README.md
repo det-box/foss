@@ -1,6 +1,6 @@
 EvilQuest Decryptor
 ========================
-[SentinelOne](https://sentinelone.com)'s EvilQuest ransomware decryotion tool
+[SentinelOne](https://sentinelone.com)'s EvilQuest ransomware decryption tool
 
   by:
    - Julien-Pierre Avérous
